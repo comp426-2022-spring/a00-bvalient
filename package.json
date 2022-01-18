@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-bvalient/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-bvalient#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-bvalient#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
